@@ -29,7 +29,5 @@ pipeline {
             }
         }
     }
-tools {
-    maven 'maven_3_5_0'
-  }
+
 }
